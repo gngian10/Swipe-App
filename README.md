@@ -1,6 +1,6 @@
 # Swipe App
 
-A simple and intuitive application that allows users to swipe left or right to interact with cards or items. Perfect for creating dating apps, product browsers, or any interactive experience based on swipe gestures.
+Prototype that allows users to swipe left or right to interact with cards or items. Fit for creating dating apps, product browsers, or any interactive experience based on swipe gestures.
 
 ## Features
 
@@ -15,3 +15,11 @@ A simple and intuitive application that allows users to swipe left or right to i
 - You can easily customize:
 - Card size and style
 - Swipe threshold sensitivity
+
+## Screenshots
+
+Here is a demo of the Swipe App
+
+![Swipe App Screenshot](./images/swipe-app.png)
+
+You can also see it in action 👉 [Live Demo on CodePen](https://codepen.io/giandev10/pen/RNNZgdY)
